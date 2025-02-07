@@ -80,7 +80,7 @@ const config = {
         {
           name: "keywords",
           content:
-            "frontend, react, 热门杂志, css, react, vue, typescript, docusaurus, blog, personal blog, personal website",
+            "frontend, react, javascript, css, react, vue, typescript, docusaurus, blog, personal blog, personal website",
         },
       ],
       // 开启 algolia
