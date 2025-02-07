@@ -108,7 +108,7 @@ const config = {
           { to: "/pages/project", label: "My Project", position: "right" },
           {
             type: "dropdown",
-            label: "Skill",
+            label: "杂志排行榜",
             position: "right",
             items: [
               {
