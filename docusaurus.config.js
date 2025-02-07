@@ -113,8 +113,8 @@ const config = {
             items: [
               {
                 type: "doc",
-                label: "热门杂志",
-                docId: "热门杂志/index",
+                label: "javascript",
+                docId: "javascript/index",
               },
               {
                 type: "doc",
@@ -196,7 +196,7 @@ const config = {
       prism: {
         theme: darkCodeTheme,
         darkTheme: darkCodeTheme,
-        defaultLanguage: "热门杂志",
+        defaultLanguage: "javascript",
       },
     },
   i18n: {
