@@ -80,7 +80,7 @@ const config = {
         {
           name: "keywords",
           content:
-            "frontend, react, javascript, css, react, vue, typescript, docusaurus, blog, personal blog, personal website",
+            "frontend, react, 热门杂志, css, react, vue, typescript, docusaurus, blog, personal blog, personal website",
         },
       ],
       // 开启 algolia
@@ -113,8 +113,8 @@ const config = {
             items: [
               {
                 type: "doc",
-                label: "JavaScript",
-                docId: "javascript/index",
+                label: "热门杂志",
+                docId: "热门杂志/index",
               },
               {
                 type: "doc",
@@ -196,7 +196,7 @@ const config = {
       prism: {
         theme: darkCodeTheme,
         darkTheme: darkCodeTheme,
-        defaultLanguage: "javascript",
+        defaultLanguage: "热门杂志",
       },
     },
   i18n: {
