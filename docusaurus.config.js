@@ -10,7 +10,7 @@ const path = require("path");
 const config = {
   title: "icodex",
   tagline: "frontend development cookbook",
-  url: "https://icodex.me",
+  url: "https://zazhi.zhihu.blog",
   baseUrl: "/",
   deploymentBranch: "gh-pages",
   onBrokenLinks: "throw",
@@ -94,7 +94,7 @@ const config = {
         indexName: "icodex",
       },
       navbar: {
-        title: "icodex",
+        title: "杂志大全下载",
         hideOnScroll: true,
         logo: {
           alt: "icodex",
