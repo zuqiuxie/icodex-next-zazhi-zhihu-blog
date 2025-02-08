@@ -100,7 +100,7 @@ export default () => {
             marginTop: 80,
           }}
         >
-          <h1 style={{ textDecoration: "underline" }}>My Project</h1>
+          <h1 style={{ textDecoration: "underline" }}>首页</h1>
         </div>
         <div
           style={{
