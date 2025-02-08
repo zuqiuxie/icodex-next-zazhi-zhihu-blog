@@ -6,7 +6,7 @@ import styles from "./styles.module.css";
 
 export default () => {
   return (
-    <Layout title="My Project">
+    <Layout title="首页">
       <div style={{ width: "100%", height: "100%", padding: 100 }}>
         <div
           style={{
