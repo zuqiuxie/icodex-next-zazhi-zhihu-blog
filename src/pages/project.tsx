@@ -63,7 +63,7 @@ export default () => {
             marginTop: 80,
           }}
         >
-          <h1 style={{ textDecoration: "underline" }}>My Skill</h1>
+          <h1 style={{ textDecoration: "underline" }}>热门杂志</h1>
         </div>
         <div
           style={{
@@ -100,7 +100,7 @@ export default () => {
             marginTop: 80,
           }}
         >
-          <h1 style={{ textDecoration: "underline" }}>首页</h1>
+          <h1 style={{ textDecoration: "underline" }}>推荐杂志</h1>
         </div>
         <div
           style={{
