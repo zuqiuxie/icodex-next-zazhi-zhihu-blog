@@ -105,7 +105,7 @@ const config = {
             type: "search",
             position: "right",
           },
-          { to: "/pages/project", label: "My Project", position: "right" },
+          { to: "/pages/project", label: "首页", position: "right" },
           {
             type: "dropdown",
             label: "杂志排行榜",
