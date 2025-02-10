@@ -206,15 +206,10 @@ const config = {
 };
 
 scripts: [
-
-  {
-  
-  src: '//sdk.51.la/js-sdk-pro.min.js?id=KijifbgY9N9N9JYF&ck=KijifbgY9N9N9JYF',
-  
-  async: true
-  
-  }
-  
-  ],
+{
+src: 'https://sdk.51.la/js-sdk-pro.min.js?id=KijifbgY9N9N9JYF&ck=KijifbgY9N9N9JYF',
+async: true
+}
+],
 
 module.exports = config;
