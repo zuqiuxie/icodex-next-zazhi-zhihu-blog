@@ -184,14 +184,6 @@ const config = {
             className: "header-github-link",
             "aria-label": "GitHub repository",
           },
-          {
-            href: "<script charset="UTF-8" id="LA_COLLECT" src="//sdk.51.la/js-sdk-pro.min.js"></script>
-<script>LA.init({id:"KijifbgY9N9N9JYF",ck:"KijifbgY9N9N9JYF"})</script>",
-            position: "right",
-            // custom logo in custom.css
-            className: "header-github-link",
-            "aria-label": "GitHub repository",
-          },
         ],
       },
       liveCodeBlock: {
