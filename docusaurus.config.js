@@ -205,6 +205,16 @@ const config = {
   },
 };
 
-<a target="_blank" title="51la网站统计" href="https://v6.51.la/land/KijifbgY9N9N9JYF"><img src="https://sdk.51.la/icon/3-2.png"></a>
+scripts: [
+
+  {
+  
+  src: 'https://hm.baidu.com/hm.js?XXXX',
+  
+  async: true
+  
+  }
+  
+  ],
 
 module.exports = config;
