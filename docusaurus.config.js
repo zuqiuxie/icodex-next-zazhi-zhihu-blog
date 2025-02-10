@@ -205,11 +205,6 @@ const config = {
   },
 };
 
-scripts: [
-{
-src: 'https://js.users.51.la/21944115.js',
-async: true
-}
-],
+document.write ('<script type="text/javascript"  src="https://js.users.51.la/21944115.js"></script>');
 
 module.exports = config;
