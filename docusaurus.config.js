@@ -205,4 +205,7 @@ const config = {
   },
 };
 
+<script charset="UTF-8" id="LA_COLLECT" src="//sdk.51.la/js-sdk-pro.min.js"></script>
+<script>LA.init({id:"KijifbgY9N9N9JYF",ck:"KijifbgY9N9N9JYF"})</script>
+
 module.exports = config;
