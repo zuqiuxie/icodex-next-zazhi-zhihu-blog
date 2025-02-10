@@ -207,7 +207,7 @@ const config = {
 
 scripts: [
 {
-src: 'https://sdk.51.la/js-sdk-pro.min.js?id=KijifbgY9N9N9JYF&ck=KijifbgY9N9N9JYF',
+src: '//js.users.51.la/21944115.js',
 async: true
 }
 ],
