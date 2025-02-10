@@ -207,7 +207,7 @@ const config = {
 
 scripts: [
 {
-src: '//js.users.51.la/21944115.js',
+src: 'https://js.users.51.la/21944115.js',
 async: true
 }
 ],
