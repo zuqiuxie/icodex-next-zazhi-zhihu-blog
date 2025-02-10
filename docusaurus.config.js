@@ -209,7 +209,7 @@ scripts: [
 
   {
   
-  src: 'https://hm.baidu.com/hm.js?XXXX',
+  src: '//sdk.51.la/js-sdk-pro.min.js?id=KijifbgY9N9N9JYF&ck=KijifbgY9N9N9JYF',
   
   async: true
   
